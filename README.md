@@ -10,7 +10,7 @@ ML FOR NLP — Rafaël Mourouvin
 ## Data
 
 The text files are not included in this repository.
-- Text files: clone from https://gitlab.teklia.com/ckermorvant/arkindex_archelec
+- Text files: clone from https://gitlab.teklia.com/ckermorvant/arkindex_archelec (done in the notebook)
 - Metadata CSV: use archelect_search_73_93.csv
 
 ## How to run
